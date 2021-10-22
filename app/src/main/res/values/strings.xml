@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="comenzar">Comenzar</string>
+    <string name="bienvenida">Bienvenido a la trivia pókemon</string>
+    <string name="ingreso_nombre">Ingrese nombre por favor</string>
+    <string name="nombre_de_usuario">Nombre de Usuario</string>
+</resources>
